@@ -1,0 +1,12 @@
+pandas 
+pulp
+streamlit
+plotly.express
+plotly.graph_objects 
+altair 
+numpy 
+sklearn.linear_model
+sklearn.ensemble
+sklearn.model_selection 
+sklearn.metrics 
+joblib
